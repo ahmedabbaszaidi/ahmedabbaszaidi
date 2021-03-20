@@ -6,7 +6,7 @@
 
 <[![GitHub thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ahmedabbaszaidi/ahmedabbaszaidi)>
 
-
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 | :star:  | :star:  | :dizzy:  |
 ### Hi, I'm Ahmed Abbas 
