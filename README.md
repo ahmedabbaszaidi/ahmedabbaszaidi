@@ -6,6 +6,8 @@
 
 <[![GitHub thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ahmedabbaszaidi/ahmedabbaszaidi)>
 
+
+
 | :star:  | :star:  | :dizzy:  |
 ### Hi, I'm Ahmed Abbas 
 Glad to see you here for contributing your efforts in learing A.I. Projects.
