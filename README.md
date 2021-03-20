@@ -1,5 +1,5 @@
 [![Header](https://github.com/ahmedabbaszaidi/ahmedabbaszaidi/blob/main/header.png "Header")](https://billkul.com/)
-| :facebook:  | :linkedin:  | :dizzy:  |
+| :star:  | :star:  | :dizzy:  |
 ### Hi, I'm Ahmed Abbas 
 Glad to see you here for contributing your efforts in learing A.I. Projects.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
