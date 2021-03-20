@@ -4,9 +4,9 @@
 
 [![Linkedin: ahmedabbaszaidi](https://img.shields.io/badge/-ahmedabbaszaidi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedabbaszaidi/)](https://www.linkedin.com/in/ahmedabbaszaidi/)
 
-<[![GitHub thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ahmedabbaszaidi/ahmedabbaszaidi)>
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+
+[![GitHub ahmedabbaszaidi](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ahmedabbaszaidi/ahmedabbaszaidi)
 
 | :star:  | :star:  | :dizzy:  |
 ### Hi, I'm Ahmed Abbas 
