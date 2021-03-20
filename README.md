@@ -2,8 +2,9 @@
 
 <!--[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga) -->
 
-[![Linkedin: ahmedabbaszaidi](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmedabbaszaidi/)](https://www.linkedin.com/in/ahmedabbaszaidi/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ahmedabbaszaidi/ahmedabbaszaidi)
+[![in: ahmedabbaszaidi](https://img.shields.io/badge/linkedin-ahmedabbaszaidi-blue)](https://www.linkedin.com/in/ahmedabbaszaidi/)
+
+<!--[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ahmedabbaszaidi/ahmedabbaszaidi)-->
 
 | :star:  | :star:  | :dizzy:  |
 ### Hi, I'm Ahmed Abbas 
